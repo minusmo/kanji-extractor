@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "kanji-extractor"
+version = "0.1.0"
+description = "japanes kanji information extractor from html"
+authors = ["hojooneum <bldolphin96@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+bs4 = "^0.0.2"
+requests = "^2.32.3"
+
+[tool.poetry.group.dev.dependencies]
+pytest = "^8.3.3"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
