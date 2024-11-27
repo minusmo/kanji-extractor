@@ -87,11 +87,13 @@ def main():
 
 
 def print_kanji_info(kanji):
+    print("#" * 20)
     print("한자", kanji["kanji"])
     print("기본정보", kanji["basic_info"])
     print("한자구조", kanji["kanji_structure"])
     print("음독", kanji["on_yomi_info"])
     print("훈독", kanji["kun_yomi_info"])
+    print("#" * 20)
 
 
 if __name__ == "__main__":
