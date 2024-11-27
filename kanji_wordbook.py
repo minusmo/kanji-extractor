@@ -79,13 +79,13 @@ def main():
             print()
             print(kanjis[i]["kanji"])
             print("알고있습니까?(y/n)")
-            print("x를 입력하면 종료합니다.", end=": ")
+            print("x를 입력하면 종료합니다.", end=" ")
             user_input = input().strip()
             if user_input == "x":
                 print("암기 종료")
                 return
             elif user_input == "n":
-                print_kanji_info(kanjis[i])
+                print_kanji_info(kanjis[i],i)
                 to_remember[i] = kanjis[i]
 
         while to_remember:
@@ -93,9 +93,9 @@ def main():
             for k, kanji in list(to_remember.items()):
                 print("=" * 20)
                 print(kanji["kanji"])
-                print_kanji_info(kanji)
+                print_kanji_info(kanji,k)
                 print("알고있습니까?(y/n)")
-                print("x를 입력하면 종료합니다.", end=": ")
+                print("x를 입력하면 종료합니다.", end=" ")
                 user_input = input().strip()
                 if user_input == "x":
                     print("암기 종료")
@@ -115,14 +115,32 @@ def main():
         print(f"An error occurred: {e}")
         return
 
+index_page_index = [649,650,651,652,2285]
 
-def print_kanji_info(kanji):
+def get_page_index(kanji_index):
+  """
+  레퍼런스 사이트는 인덱스가 1부터 시작합니다.
+  그리고 path_variable이 8부터 시작합니다.
+  즉, 1번한자의 path_variable이 8입니다.
+  """
+  reference_site_index = kanji_index + 1
+  if reference_site_index + 7 < 649:
+    return f"https://nihongokanji.com/{reference_site_index + 8}"
+  elif reference_site_index + 7 >= 649:
+    return f"https://nihongokanji.com/{reference_site_index + 12}"
+  else:
+    return f"https://nihongokanji.com/{reference_site_index + 12}"
+
+def print_kanji_info(kanji, kanji_index):
     print("#" * 20)
+    print()
     print("한자: ", kanji["kanji"])
     print("기본정보: ", kanji["basic_info"])
     print("한자구조: ", kanji["kanji_structure"])
     print("음독: ", kanji["on_yomi_info"])
     print("훈독: ", kanji["kun_yomi_info"])
+    print(f"설명이 부족하다면 원본 설명을 보세요: {get_page_index(kanji_index)}")
+    print()
     print("#" * 20)
 
 
