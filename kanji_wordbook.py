@@ -14,28 +14,15 @@ def load_json_to_list(json_file_path):
         print(f"Error loading JSON file: {e}")
         return None
 
+
 jlpt_kanji_index_range = {
-  "n5": {
-    "start": 0,
-    "end": 103
-  },
-  "n4": {
-    "start": 103,
-    "end": 284
-  },
-  "n3": {
-    "start": 284,
-    "end": 608
-  },
-  "n2": {
-    "start": 608,
-    "end": 1023
-  },
-  "n1": {
-    "start": 1023,
-    "end": 2136
-  }
+    "n5": {"start": 0, "end": 103},
+    "n4": {"start": 103, "end": 284},
+    "n3": {"start": 284, "end": 608},
+    "n2": {"start": 608, "end": 1023},
+    "n1": {"start": 1023, "end": 2136},
 }
+
 
 def main():
     try:
@@ -53,11 +40,20 @@ def main():
         if level == 5:
             end_index = jlpt_kanji_index_range["n5"]["end"]
         elif level == 4:
-            start_index, end_index = jlpt_kanji_index_range["n4"]["start"], jlpt_kanji_index_range["n4"]["end"]
+            start_index, end_index = (
+                jlpt_kanji_index_range["n4"]["start"],
+                jlpt_kanji_index_range["n4"]["end"],
+            )
         elif level == 3:
-            start_index, end_index = jlpt_kanji_index_range["n3"]["start"], jlpt_kanji_index_range["n3"]["end"]
+            start_index, end_index = (
+                jlpt_kanji_index_range["n3"]["start"],
+                jlpt_kanji_index_range["n3"]["end"],
+            )
         elif level == 2:
-            start_index, end_index = jlpt_kanji_index_range["n2"]["start"], jlpt_kanji_index_range["n2"]["end"]
+            start_index, end_index = (
+                jlpt_kanji_index_range["n2"]["start"],
+                jlpt_kanji_index_range["n2"]["end"],
+            )
         else:
             start_index = jlpt_kanji_index_range["n1"]["start"]
 
@@ -69,10 +65,10 @@ def main():
         print("건너뛰어서 시작하시겠습니까?(y/n)", end=": ")
         answer = input().strip()
         if answer == "y":
-          print(f"JLPT N{level} 한자는 {start_index+1}번부터 시작합니다.")
-          print("건너뛰어서 시작할 번호 입력", end=": ")
-          start_index = int(input().strip()) - 1
-        
+            print(f"JLPT N{level} 한자는 {start_index+1}번부터 시작합니다.")
+            print("건너뛰어서 시작할 번호 입력", end=": ")
+            start_index = int(input().strip()) - 1
+
         print("한자공부를 시작합니다.")
         for i in range(start_index, end_index):
             print("=" * 20)
@@ -85,15 +81,18 @@ def main():
                 print("암기 종료")
                 return
             elif user_input == "n":
-                print_kanji_info(kanjis[i],i)
+                print_kanji_info(kanjis[i], i)
                 to_remember[i] = kanjis[i]
 
+        print("1회독이 끝났습니다.")
+        print("몰랐던 단어를 복습합니다.")
         while to_remember:
+            print("다시 복습합니다.")
             key_to_remove = []
             for k, kanji in list(to_remember.items()):
                 print("=" * 20)
+                print()
                 print(kanji["kanji"])
-                print_kanji_info(kanji,k)
                 print("알고있습니까?(y/n)")
                 print("x를 입력하면 종료합니다.", end=" ")
                 user_input = input().strip()
@@ -102,6 +101,8 @@ def main():
                     return
                 elif user_input == "y":
                     key_to_remove.append(k)
+                else:
+                    print_kanji_info(kanji, k)
 
             for key in key_to_remove:
                 to_remember.pop(key)
@@ -115,21 +116,24 @@ def main():
         print(f"An error occurred: {e}")
         return
 
-index_page_index = [649,650,651,652,2285]
+
+index_page_index = [649, 650, 651, 652, 2285]
+
 
 def get_page_index(kanji_index):
-  """
-  레퍼런스 사이트는 인덱스가 1부터 시작합니다.
-  그리고 path_variable이 8부터 시작합니다.
-  즉, 1번한자의 path_variable이 8입니다.
-  """
-  reference_site_index = kanji_index + 1
-  if reference_site_index + 7 < 649:
-    return f"https://nihongokanji.com/{reference_site_index + 8}"
-  elif reference_site_index + 7 >= 649:
-    return f"https://nihongokanji.com/{reference_site_index + 12}"
-  else:
-    return f"https://nihongokanji.com/{reference_site_index + 12}"
+    """
+    레퍼런스 사이트는 인덱스가 1부터 시작합니다.
+    그리고 path_variable이 8부터 시작합니다.
+    즉, 1번한자의 path_variable이 8입니다.
+    """
+    reference_site_index = kanji_index + 1
+    if reference_site_index + 7 < 649:
+        return f"https://nihongokanji.com/{reference_site_index + 8}"
+    elif reference_site_index + 7 >= 649:
+        return f"https://nihongokanji.com/{reference_site_index + 12}"
+    else:
+        return f"https://nihongokanji.com/{reference_site_index + 12}"
+
 
 def print_kanji_info(kanji, kanji_index):
     print("#" * 20)
