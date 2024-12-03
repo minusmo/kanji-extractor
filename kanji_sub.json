@@ -1,0 +1,926 @@
+[
+    {
+        "kanji": "「厶」",
+        "basic_info": "의미  사사로운, 개인적인\n사용 빈도  높음\n",
+        "kanji_structure": "\n厶는 \"팔을 안으로 굽힌 모습\"을 그린 상형문자입니다.\n\"팔은 안으로 굽는다\" -> \"사사로운, 개인적인\"이라는 의미입니다.\n",
+        "reference": "https://nihongokanji.com/2151"
+    },
+    {
+        "kanji": "「禾」",
+        "basic_info": "의미  곡식, 곡물, 벼\n사용 빈도  매우 높음\n",
+        "kanji_structure": "\n\n禾는 \"벼가 여물어 벼이삭이 주렁주렁 매달려있는 모습\"을 본따 그린 상형문자입니다.\n",
+        "reference": "https://nihongokanji.com/2153"
+    },
+    {
+        "kanji": "「寸」",
+        "basic_info": "의미  손\n사용 빈도  매우 높음\n",
+        "kanji_structure": "\n寸는 \"손과 손목\"을 본따 그린 상형문자입니다.\n\n",
+        "reference": "https://nihongokanji.com/2154"
+    },
+    {
+        "kanji": "「示、礻」",
+        "basic_info": "의미  종교, 신, 고대의 비석\n사용 빈도  매우 높음\n",
+        "kanji_structure": "\n示는 \"고대의 비석\"을 그린 상형문자입니다.\n\"오래된 비석\" -> \"종교, 신, 고대의 비석\"이라는 의미입니다.\n\n礻는 示를 부수로 쓰기 위해 축약한 것으로, 의미는 같습니다.\n\n주의)\n모양이 비슷한「衤」와 혼동하지 않도록 주의해주세요.\n\n",
+        "reference": "https://nihongokanji.com/2155"
+    },
+    {
+        "kanji": "「刀、刂」",
+        "basic_info": "의미  \"칼 도\". 칼\n사용 빈도  매우 높음\n",
+        "kanji_structure": "\n刀는 \"반달 모양의 날이 달린 칼\"을 본따 그린 상형문자입니다.\n刂는 刀를 부수로 쓰기 위해 축약한 것으로, 의미는 같습니다.\n\n",
+        "reference": "https://nihongokanji.com/2156"
+    },
+    {
+        "kanji": "「彳」",
+        "basic_info": "의미  길, 가다, 걷다\n사용 빈도  높음\n",
+        "kanji_structure": "\n彳는 \"길\"의 모습을 그린 상형문자로, 「行」의 왼쪽 절반만 따온 글자입니다.\n\"길\" -> \"길, 가다, 걷다\"라는 의미입니다.\n",
+        "reference": "https://nihongokanji.com/2157"
+    },
+    {
+        "kanji": "「糸」",
+        "basic_info": "의미  실\n사용 빈도  매우 높음\n",
+        "kanji_structure": "\n糸는 \"실타래\"의 모습을 본따 그린 상형문자입니다.\n\n",
+        "reference": "https://nihongokanji.com/2158"
+    },
+    {
+        "kanji": "「幺」",
+        "basic_info": "의미  짧은 실, 작다, 어리다\n사용 빈도  높음\n",
+        "kanji_structure": "\n幺는 「糸」(실)의 아랫부분을 잘라낸 글자입니다.\n\"절반을 자른 실(糸)\" -> \"짧은 실\" -> \"작다, 어리다\"라는 의미입니다.\n",
+        "reference": "https://nihongokanji.com/2159"
+    },
+    {
+        "kanji": "「夂」",
+        "basic_info": "의미  발\n사용 빈도  매우 높음\n",
+        "kanji_structure": "\n夂는 \"새의 발\"을 거꾸로 그린 상형문자입니다.\n\n주의)\n모양이 비슷한「攵」와 혼동하지 않도록 주의해주세요.\n",
+        "reference": "https://nihongokanji.com/2160"
+    },
+    {
+        "kanji": "「攵」",
+        "basic_info": "의미  때리다, 치다\n사용 빈도  매우 높음\n",
+        "kanji_structure": "\n攵 = 丿 + 又。\n丿는 여기서는 \"막대기\"를 그린 모양자입니다.\n「又」는 \"손\"을 뜻하는 부수입니다.\n\n攵는 \"막대기(丿)를 손(又)에 들고 마구 때리다\" -> \"때리다, 치다\"라는 뜻의 글자입니다.\n\n주의)\n모양이 비슷한「夂」와 혼동하지 않도록 주의해주세요.\n",
+        "reference": "https://nihongokanji.com/2161"
+    },
+    {
+        "kanji": "「衣、衤」",
+        "basic_info": "의미  옷\n사용 빈도  매우 높음\n",
+        "kanji_structure": "\n衣는 \"윗옷\"의 형태를 본따 그린 상형문자입니다.\n衤는 衣를 부수로 쓰기 위해 축약한 것으로, 의미는 같습니다.\n\n주의)\n모양이 비슷한「礻」와 혼동하지 않도록 주의해주세요.\n\n",
+        "reference": "https://nihongokanji.com/2162"
+    },
+    {
+        "kanji": "「月」",
+        "basic_info": "의미 1  달\n의미 2  고기, 신체의 일부\n사용 빈도  매우 높음\n月가 한자의 오른쪽에 있을 때는 1번 뜻으로 쓰이는 경우가 많습니다.\n月가 한자의 왼쪽에 있을 때는 2번 뜻으로 쓰이는 경우가 많습니다.\n",
+        "kanji_structure": "\n月가 다른 한자의 일부로 쓰일 때는 서로 전혀 다른 두 가지 의미를 가질 수 있으므로 주의해야 합니다.\n이 경우 月는 \"달\"과 관련된 의미를 전달하게 됩니다.\n주로 \"달이 차고 지는 주기\" -> \"달\", \"주기성\"을 뜻하는 경우가 많습니다.\n\n「肉」\n肉는 \"고기\"를 뜻하는 상용한자로, \"고기에 칼집을 낸 모습\"을 그린 상형문자입니다.\n\"肉\"가 다른 한자의 일부로 쓰일 때는 \"月\"로 변형되어 쓰이게 됩니다.\n이 경우 月는 \"고기\", \"신체의 일부\"를 의미합니다.\n\n\n대략적인 구분법은 다음과 같습니다.\n",
+        "reference": "https://nihongokanji.com/2163"
+    },
+    {
+        "kanji": "「斤」",
+        "basic_info": "의미  도끼\n사용 빈도  매우 높음\n",
+        "kanji_structure": "\n斤는 \"도끼날(⺁)과 손잡이(丅)\"를 그린 상형문자입니다.\n\n",
+        "reference": "https://nihongokanji.com/2164"
+    },
+    {
+        "kanji": "「⺍＋冖」",
+        "basic_info": "의미  불이 환하게 켜진 집\n사용 빈도  6회\n",
+        "kanji_structure": "\n⺍는 여기서는 \"불빛\"을 표현한 모양자입니다.\n冖는 여기서는 \"집의 지붕\"을 그린 모양자입니다.\n\n⺍＋冖는 \"불(⺍)이 환하게 켜진 집(冖)\"이라는 뜻의 글자입니다.\n\n주의)\n모양이 비슷한 「龸」와 혼동하지 않도록 주의해주세요.\n",
+        "reference": "https://nihongokanji.com/2165"
+    },
+    {
+        "kanji": "「卜」",
+        "basic_info": "의미  점, 점괘\n사용 빈도  7회\n",
+        "kanji_structure": "\n卜는 \"거북의 등껍질에 나타난 점괘\"를 그린 상형문자입니다.\n(먼 옛날 중국에서는 거북의 등껍질을 이용해 점을 쳤다고 합니다.)\n",
+        "reference": "https://nihongokanji.com/2166"
+    },
+    {
+        "kanji": "「舌」",
+        "basic_info": "의미  혀\n사용 빈도  7회\n",
+        "kanji_structure": "\n舌 = 千 + 口。\n千는 여기서는 \"뱀의 혓바닥\"을 그린 모양자입니다.\n口는 여기서는 \"뱀의 머리\"를 그린 모양자입니다.\n\n舌는 \"뱀(口)이 혓바닥(千)을 내밀고 있는 모습\"을 본따 그린 상형문자입니다.\n\"뱀의 혀\" -> \"혀\"라는 의미입니다.\n\n",
+        "reference": "https://nihongokanji.com/2167"
+    },
+    {
+        "kanji": "「宀」",
+        "basic_info": "의미  집\n사용 빈도  매우 높음\n",
+        "kanji_structure": "\n宀는 \"집의 지붕\"을 그린 상형문자입니다.\n",
+        "reference": "https://nihongokanji.com/2168"
+    },
+    {
+        "kanji": "「⺕」",
+        "basic_info": "의미  손\n사용 빈도  높음\n",
+        "kanji_structure": "\n⺕는 \"손과 손가락\"을 그린 상형문자입니다.\n",
+        "reference": "https://nihongokanji.com/2169"
+    },
+    {
+        "kanji": "「聿、肀」",
+        "basic_info": "의미  붓을 든 손\n사용 빈도  8회\n",
+        "kanji_structure": "\n聿 = ⺕ + │ + 二。\n肀 = ⺕ + │。\n\n「⺕」는 \"손\"을 뜻하는 부수입니다(링크 참조).\n│는 여기서는 \"붓대\"를 그린 모양자입니다.\n二는 여기서는 \"붓끝\"을 표현한 모양자입니다.\n\n聿는 \"붓(│+二)을 든 손(⺕)\"이라는 뜻의 부수입니다.\n肀는 \"붓(│)을 든 손(⺕)\"이라는 뜻의 부수입니다.\n",
+        "reference": "https://nihongokanji.com/2170"
+    },
+    {
+        "kanji": "「牛、𠂒、牜」",
+        "basic_info": "의미  소\n사용 빈도  높음\n",
+        "kanji_structure": "\n牛는 \"뿔이 달린 소의 머리\"를 그린 상형문자입니다.\n𠂒는 牛의 아랫 부분만 잘라낸 글자로, 의미는 같습니다.\n牜는 牛를 부수로 쓰기 위해 축약한 것으로, 의미는 같습니다.\n\n",
+        "reference": "https://nihongokanji.com/2171"
+    },
+    {
+        "kanji": "「⻌」",
+        "basic_info": "의미  길, 길을 가다\n사용 빈도  매우 높음\n",
+        "kanji_structure": "\n⻌는 \"길\"을 본따 그린 상형문자입니다.\n",
+        "reference": "https://nihongokanji.com/2172"
+    },
+    {
+        "kanji": "「首」",
+        "basic_info": "의미  머리\n사용 빈도  3회\n",
+        "kanji_structure": "\n首 = 丷 + 丆 + 目。\n「目」는 \"눈\"을 뜻합니다.\n丷+丆는 여기서는 \"머리털\"을 그린 모양자입니다.\n\n首는 \"머리털(丷+丆) + 눈(目)\" -> \"머리\"라는 뜻의 부수입니다.\n\n주의)\n비슷한 모양의 「頁」와는 뜻은 같으나 서로 다른 부수이므로 주의해주세요.\n\n",
+        "reference": "https://nihongokanji.com/2173"
+    },
+    {
+        "kanji": "「頁」",
+        "basic_info": "의미  머리\n사용 빈도  매우 높음\n",
+        "kanji_structure": "\n頁 = 丆 + 目 + ハ。\n丆는 여기서는 \"머리카락\"을 그린 모양자입니다.\n「目」는 \"눈\"을 뜻합니다.\nハ는 여기서는 \"콧수염\"을 그린 모양자입니다.\n\n頁는 \"머리카락(丆) + 눈(目) + 콧수염(ハ)\" -> \"머리\"라는 뜻의 부수입니다.\n\n주의)\n비슷한 모양의 「首」와는 뜻은 같으나 서로 다른 부수이므로 주의해주세요.\n",
+        "reference": "https://nihongokanji.com/2174"
+    },
+    {
+        "kanji": "「申、电」",
+        "basic_info": "의미  번개\n사용 빈도  높음\n",
+        "kanji_structure": "\n申 = 田 + 丨。\n田(\"밭 전\")은 \"밭\"을 뜻하는 상용한자입니다.\n丨는 여기서는 \"번개\"를 표현한 모양자입니다.\n\n申는 \"밭(田)에 번개(丨)가 내리치다\" -> \"번개\"라는 뜻의 글자입니다.\n电는 申가 살짝 변형된 것으로, 의미는 같습니다.\n\n",
+        "reference": "https://nihongokanji.com/2175"
+    },
+    {
+        "kanji": "「亻」",
+        "basic_info": "의미  사람\n사용 빈도  매우 높음\n",
+        "kanji_structure": "\n亻는 「人」(사람)을 부수로 쓰기 위해 축약한 것으로, 의미는 같습니다.\n",
+        "reference": "https://nihongokanji.com/2176"
+    },
+    {
+        "kanji": "「广」",
+        "basic_info": "의미  건물, 집\n사용 빈도  매우 높음\n",
+        "kanji_structure": "\n广 = 亠 + 丿。\n亠는 여기서는 \"지붕\"을 그린 모양자입니다.\n丿는 여기서는 \"담벼락\"을 그린 모양자입니다.\n\n广는 \"지붕(亠) + 담벼락(丿)\" -> \"건물, 집\"이라는 뜻의 부수입니다.\n\n주의)\n모양이 비슷한 「厂」와 혼동하지 않도록 주의해주세요.\n",
+        "reference": "https://nihongokanji.com/2177"
+    },
+    {
+        "kanji": "「母、毋」",
+        "basic_info": "의미  어머니\n사용 빈도  7회\n",
+        "kanji_structure": "\n母는 \"여자의 가슴\"을 강조해서 그린 상형문자입니다.\n\"아기에게 젖을 주는 어머니\" -> \"어머니\"라는 의미입니다.\n\n毋는 母가 살짝 변형된 것으로, 의미는 같습니다.\n\n",
+        "reference": "https://nihongokanji.com/2178"
+    },
+    {
+        "kanji": "「罒」",
+        "basic_info": "의미  그물\n사용 빈도  높음\n",
+        "kanji_structure": "\n罒는 \"그물망\"을 그린 상형문자입니다.\n",
+        "reference": "https://nihongokanji.com/2179"
+    },
+    {
+        "kanji": "「貝」",
+        "basic_info": "의미  돈, 재물\n사용 빈도  매우 높음\n",
+        "kanji_structure": "\n貝는 본래 \"조개껍질\"을 본따 그린 상형문자입니다.\n\"돈, 재물\"이라는 의미는 먼 옛날 조개껍질을 화폐로 사용했던 관습으로부터 유래한 것입니다.\n",
+        "reference": "https://nihongokanji.com/2180"
+    },
+    {
+        "kanji": "「艹」",
+        "basic_info": "의미  풀\n사용 빈도  매우 높음\n",
+        "kanji_structure": "\n艹는 \"잔디밭에 자라난 풀\"을 그린 상형문자입니다.\n",
+        "reference": "https://nihongokanji.com/2181"
+    },
+    {
+        "kanji": "「匕」",
+        "basic_info": "의미 1  넘어져있는 사람\n의미 2  숟가락\n사용 빈도  높음\n",
+        "kanji_structure": "\n匕가 다른 한자의 일부로 쓰일 때는 서로 전혀 다른 두 가지 의미를 가질 수 있으므로 주의해야 합니다.\n\n이 경우는 \"쓰러진 사람\"의 모습을 그린 상형문자로서 쓰인 것입니다.\n\n이 경우는 \"끝이 뾰족한 숟가락\"을 그린 상형문자로서 쓰인 것입니다.\n",
+        "reference": "https://nihongokanji.com/2182"
+    },
+    {
+        "kanji": "「𠂇」",
+        "basic_info": "의미  손\n사용 빈도  높음\n",
+        "kanji_structure": "\n𠂇는 \"손과 손가락\"을 그린 상형문자입니다.\n",
+        "reference": "https://nihongokanji.com/2183"
+    },
+    {
+        "kanji": "「又」",
+        "basic_info": "의미  손, 집어들다\n사용 빈도  매우 높음\n",
+        "kanji_structure": "\n又는 \"엄지와 검지로 무언가를 집어드는 손\"의 모습을 그린 상형문자입니다.\n\n",
+        "reference": "https://nihongokanji.com/2184"
+    },
+    {
+        "kanji": "「欠」",
+        "basic_info": "의미  입을 벌린 사람, 입으로 하는 동작\n사용 빈도  높음\n",
+        "kanji_structure": "\n欠는 \"입을 벌리고 하품하는 사람\"을 그린 상형문자입니다.\n欠가 다른 한자의 일부로 쓰일 때는 \"입으로 하는 동작\"과 관련된 의미를 전달합니다.\n\n",
+        "reference": "https://nihongokanji.com/2185"
+    },
+    {
+        "kanji": "「耂」",
+        "basic_info": "의미  노인\n사용 빈도  5회\n",
+        "kanji_structure": "\n耂는 \"지팡이를 짚은 노인\"을 그린 상형문자입니다.\n",
+        "reference": "https://nihongokanji.com/2186"
+    },
+    {
+        "kanji": "「曰」",
+        "basic_info": "의미  \"가로 왈\". 말하다\n사용 빈도  7회\n",
+        "kanji_structure": "\n曰 = 口 + 一。\n曰는 「口」위에 획을 하나 그어서 \"말하다\"라는 뜻을 표현한 글자입니다.\n\"공자왈 맹자왈\"의 \"왈\"이 바로 이 글자(曰)입니다.\n\n주의)\n「日」(\"날 일\")과는 전혀 다른 글자이므로 주의해주세요.\n",
+        "reference": "https://nihongokanji.com/2187"
+    },
+    {
+        "kanji": "「也」",
+        "basic_info": "의미  어조사(\"~이다\", \"역시\", \"또한\" 등)\n사용 빈도  1회\n",
+        "kanji_structure": "\n也의 정확한 기원은 알려져 있지 않습니다. 일설에서는 \"똬리를 튼 뱀\"을 그린 것으로 해석하기도 합니다.\n이 글자가 어쩌다 어조사로 쓰이게 된 것인지는 알 수 없으나, 어쨌든 현재는 어조사로만 쓰이고 있습니다.\n",
+        "reference": "https://nihongokanji.com/2188"
+    },
+    {
+        "kanji": "「巾」",
+        "basic_info": "의미  수건, 천\n사용 빈도  매우 높음\n",
+        "kanji_structure": "\n巾은 \"장대에 걸린 수건\"을 그린 상형문자입니다.\n\n",
+        "reference": "https://nihongokanji.com/2189"
+    },
+    {
+        "kanji": "「昜」",
+        "basic_info": "의미  햇볕, 뜨거운 햇살\n음독  ヨウ\n사용 빈도  7회\n",
+        "kanji_structure": "\n昜는 \"태양(日)에서 내리쬐는 햇살\"을 표현한 상형문자입니다.\n\n주의)\n모양이 비슷한 「易」와 혼동하지 않도록 주의해주세요.\n",
+        "reference": "https://nihongokanji.com/2190"
+    },
+    {
+        "kanji": "「弋」",
+        "basic_info": "의미  공구, 도구\n사용 빈도  6회\n",
+        "kanji_structure": "\n弋는 \"끝이  날카로운 목재 도구\"를 그린 상형문자입니다.\n\n주의)\n모양이 비슷한 「戈」와 혼동하지 않도록 주의해주세요.\n",
+        "reference": "https://nihongokanji.com/2191"
+    },
+    {
+        "kanji": "「戈」",
+        "basic_info": "의미  창\n사용 빈도  매우 높음\n",
+        "kanji_structure": "\n戈는 \"고대에 사용하던 창의 모습\"을 그린 상형문자입니다.\n\n주의)\n모양이 비슷한 「弋」와 혼동하지 않도록 주의해주세요.\n",
+        "reference": "https://nihongokanji.com/2192"
+    },
+    {
+        "kanji": "「甬」",
+        "basic_info": "의미  종\n사용 빈도  3회\n",
+        "kanji_structure": "\n甬는 \"위에 고리가 매달린 종\"의 모습을 그린 상형문자입니다.\n",
+        "reference": "https://nihongokanji.com/2194"
+    },
+    {
+        "kanji": "「玉、𤣩」",
+        "basic_info": "의미  구슬, 보석, 보물\n사용 빈도  높음\n",
+        "kanji_structure": "\n玉는 \"옥구슬을 실에 꿰어놓은 모습\"을 그린 상형문자입니다.\n𤣩는 玉를 부수로 쓰기 위해 축약한 것으로, 의미는 같습니다.\n\n",
+        "reference": "https://nihongokanji.com/2195"
+    },
+    {
+        "kanji": "「乍」",
+        "basic_info": "의미  바느질하다\n음독  サク、サ\n사용 빈도  5회\n",
+        "kanji_structure": "\n乍는 \"바느질해서 꿰매놓은 모습\"을 그린 상형문자입니다.\n",
+        "reference": "https://nihongokanji.com/2196"
+    },
+    {
+        "kanji": "「弓」",
+        "basic_info": "의미  활\n사용 빈도  높음\n",
+        "kanji_structure": "\n弓는 \"활\"을 본따 그린 상형문자입니다.\n\n",
+        "reference": "https://nihongokanji.com/2197"
+    },
+    {
+        "kanji": "「扌」",
+        "basic_info": "의미  손\n사용 빈도  매우 높음\n",
+        "kanji_structure": "\n扌는 「手」를 부수로 쓰기 위해 축약한 것으로, 의미는 같습니다.\n",
+        "reference": "https://nihongokanji.com/2198"
+    },
+    {
+        "kanji": "「阝」",
+        "basic_info": "의미 1  언덕, 산\n의미 2  도시\n사용 빈도  매우 높음\n",
+        "kanji_structure": "\n⻏는 본래 \"늘어선 언덕\"을 그린 상형문자입니다.\n⻏는 한자의 왼쪽에 있느냐 오른쪽에 있느냐에 따라 의미가 달라지므로, 주의해야 합니다.\n\n이 경우 阝는 \"언덕, 산\"을 뜻합니다.\n\n이 경우 ⻏는 \"도시\"를 뜻합니다.\n\"도시를 둘러싼 높은 산\" -> \"도시\"라는 의미입니다.\n",
+        "reference": "https://nihongokanji.com/2199"
+    },
+    {
+        "kanji": "「豕」",
+        "basic_info": "의미  돼지\n사용 빈도  7회\n",
+        "kanji_structure": "\n豕는 \"돼지\"를 본따 그린 상형문자입니다.\n",
+        "reference": "https://nihongokanji.com/2200"
+    },
+    {
+        "kanji": "「隹」",
+        "basic_info": "의미  새\n사용 빈도  매우 높음\n",
+        "kanji_structure": "\n隹는 \"새의 머리와 날개와 꼬리\"를 함께 그려놓은 상형문자입니다.\n",
+        "reference": "https://nihongokanji.com/2201"
+    },
+    {
+        "kanji": "「止」",
+        "basic_info": "의미  발\n음독  シ\n사용 빈도  매우 높음\n",
+        "kanji_structure": "\n止는 \"사람의 발\"을 본따 그린 상형문자입니다.\n\n",
+        "reference": "https://nihongokanji.com/2202"
+    },
+    {
+        "kanji": "「氵」",
+        "basic_info": "의미  물\n사용 빈도  매우 높음\n",
+        "kanji_structure": "\n氵는 \"물방울이 튀는 모습\"을 그린 상형문자입니다.\n",
+        "reference": "https://nihongokanji.com/2203"
+    },
+    {
+        "kanji": "「矢」",
+        "basic_info": "의미  화살\n사용 빈도  높음\n",
+        "kanji_structure": "\n矢는 \"화살\"을 본따 그린 상형문자입니다.\n\n",
+        "reference": "https://nihongokanji.com/2204"
+    },
+    {
+        "kanji": "「冎」",
+        "basic_info": "의미  뼈, 해골\n사용 빈도  5회\n",
+        "kanji_structure": "\n冎는 \"인간의 해골\"을 본따 그린 상형문자입니다.\n",
+        "reference": "https://nihongokanji.com/2205"
+    },
+    {
+        "kanji": "「歹」",
+        "basic_info": "의미  시체\n사용 빈도  높음\n",
+        "kanji_structure": "\n歹는 \"살이 썩고 뼈만 남은 동물의 시체\"를 그린 상형문자입니다.\n",
+        "reference": "https://nihongokanji.com/2206"
+    },
+    {
+        "kanji": "「冫」",
+        "basic_info": "의미  얼음\n사용 빈도  높음\n",
+        "kanji_structure": "\n冫는 \"물\"을 뜻하는 「氵」에서 점 하나를 빼서 \"물(氵)이 얼다\"라는 뜻을 표현한 글자입니다.\n",
+        "reference": "https://nihongokanji.com/2207"
+    },
+    {
+        "kanji": "「丁」",
+        "basic_info": "의미  못\n음독  チョウ、テイ\n사용 빈도  8회\n",
+        "kanji_structure": "\n丁는 \"못\"의 형태를 본따 그린 상형문자입니다.\n\n",
+        "reference": "https://nihongokanji.com/2208"
+    },
+    {
+        "kanji": "「斗」",
+        "basic_info": "의미  국자\n사용 빈도  4회\n",
+        "kanji_structure": "\n斗는 \"국자\"를 본따 그린 상형문자입니다.\n\n",
+        "reference": "https://nihongokanji.com/2209"
+    },
+    {
+        "kanji": "「廴」",
+        "basic_info": "의미  길, 걷다\n사용 빈도  8회\n",
+        "kanji_structure": "\n廴는 \"길\"의 형태를 본따 그린 상형문자입니다.\n",
+        "reference": "https://nihongokanji.com/2210"
+    },
+    {
+        "kanji": "「⺈」",
+        "basic_info": "의미  칼\n사용 빈도  6회\n",
+        "kanji_structure": "\n⺈는 \"날카로운 칼날\"을 그린 상형문자로, 「刀」가 변형된 것입니다.\n",
+        "reference": "https://nihongokanji.com/2211"
+    },
+    {
+        "kanji": "「关」",
+        "basic_info": "의미  웃음\n사용 빈도  7회\n",
+        "kanji_structure": "\n关는 \"즐겁게 뛰어노는 아이\"를 그린 상형문자입니다.\n\"즐겁게 노는 아이\" -> \"웃음\"이라는 의미입니다.\n",
+        "reference": "https://nihongokanji.com/2212"
+    },
+    {
+        "kanji": "「兑」",
+        "basic_info": "의미  날카로운 눈을 한 사람, 진지한 표정을 한 사람\n사용 빈도  6회\n",
+        "kanji_structure": "\n兑 = 丷 + 口 + 儿。\n丷는 여기서는 \"날카로운 눈매\"를 그린 모양자입니다.\n口는 여기서는 \"얼굴\"을 그린 모양자입니다.\n儿는 여기서는 \"다리\"를 그린 모양자입니다.\n\n兑는 \"날카로운 눈과 진지한 표정(丷)을 한 사람(兄)\"이라는 뜻의 글자입니다.\n",
+        "reference": "https://nihongokanji.com/2213"
+    },
+    {
+        "kanji": "「云」",
+        "basic_info": "의미  구름\n사용 빈도  7회\n",
+        "kanji_structure": "\n云는 \"흘러가는 구름\"을 그린 상형문자입니다.\n",
+        "reference": "https://nihongokanji.com/2214"
+    },
+    {
+        "kanji": "「穴」",
+        "basic_info": "의미  구멍, 동굴\n사용 빈도  높음\n",
+        "kanji_structure": "\n穴는 \"동굴의 입구\"를 그린 상형문자입니다.\n\"동굴 입구\" -> \"구멍, 동굴\"이라는 의미입니다.\n\n",
+        "reference": "https://nihongokanji.com/2215"
+    },
+    {
+        "kanji": "「己」",
+        "basic_info": "의미 1  몸을 웅크린 사람, 무릎꿇은 사람\n의미 2  구부러진 새끼줄\n음독  キ、コ\n사용 빈도  높음\n",
+        "kanji_structure": "\n己는 본래 \"구부러진 새끼줄\"을 그린 상형문자입니다.\n그러나 이후 글자의 모양이 \"무릎꿇은 사람\", \"몸을 웅크린 아기\"의 모습을 연상시킨다는 이유로 그러한 의미들이 추가된 것입니다.\n\n",
+        "reference": "https://nihongokanji.com/2216"
+    },
+    {
+        "kanji": "「羊、𦍌」",
+        "basic_info": "의미  양\n음독  ヨウ\n사용 빈도  높음\n",
+        "kanji_structure": "\n羊는 \"양의 머리\"를 정면에서 본 모습을 그린 상형문자입니다.\n𦍌는 羊의 아랫 부분만 잘라낸 글자로, 의미는 같습니다.\n\n",
+        "reference": "https://nihongokanji.com/2217"
+    },
+    {
+        "kanji": "「疒」",
+        "basic_info": "의미  질병, 질환\n사용 빈도  높음\n",
+        "kanji_structure": "\n疒는 \"병에 걸려 침대에 누워있는 사람\"을 그린 상형문자입니다.\n(그림의 왼쪽 부분은 침대를 그린 것이고, 오른쪽은 사람을 그린 것입니다.)\n",
+        "reference": "https://nihongokanji.com/2218"
+    },
+    {
+        "kanji": "「𭤨」",
+        "basic_info": "의미  바람에 나부끼는 깃발\n사용 빈도  7회\n",
+        "kanji_structure": "\n𭤨는 \"땅에 박힌 깃발이 바람에 나부끼는 모습\"을 그린 상형문자입니다.\n(본래는 㫃였으나 다른 글자와 함께 조합하기 위해 형태가 살짝 바뀐 것입니다.)\n",
+        "reference": "https://nihongokanji.com/2219"
+    },
+    {
+        "kanji": "「艮」",
+        "basic_info": "의미  고개를 숙인 사람, 천민\n음독  コン\n사용 빈도  높음\n",
+        "kanji_structure": "\n艮는 \"몸을 웅크린 채 고개를 떨구고 있는 천민\"을 그린 상형문자입니다.\n\n주의)\n모양이 비슷한 「良」와 혼동하지 않도록 주의해주세요.\n",
+        "reference": "https://nihongokanji.com/2220"
+    },
+    {
+        "kanji": "「㑒」",
+        "basic_info": "의미  뾰족하다, 날카롭다\n음독  ケン\n사용 빈도  5회\n",
+        "kanji_structure": "\n㑒는 \"뾰족한 송곳\"을 그린 상형문자입니다.\n",
+        "reference": "https://nihongokanji.com/2221"
+    },
+    {
+        "kanji": "「豆」",
+        "basic_info": "의미  둥근 것, 콩, 제기그릇\n음독  トウ、ズ\n사용 빈도  7회\n",
+        "kanji_structure": "\n豆는 \"콩을 담을 때 쓰던 제기그릇\"을 그린 상형문자입니다.\n\"콩을 담을 때 쓰는 둥근 그릇\" -> \"콩, 둥근 것, 제기그릇\"이라는 의미입니다.\n\n주의)\n모양이 비슷한 「壴」와 혼동하지 않도록 주의해주세요.\n\n",
+        "reference": "https://nihongokanji.com/2222"
+    },
+    {
+        "kanji": "「氐」",
+        "basic_info": "의미  낮다\n음독  テイ\n사용 빈도  4회\n",
+        "kanji_structure": "\n氐는 \"나무뿌리가 바닥(一)에 닿은 모습\"을 그린 상형문자입니다.\n\"뿌리 끝의 밑바닥\" -> \"낮다\"라는 의미입니다.\n\n주의)\n모양이 비슷한 「氏」와 혼동하지 않도록 주의해주세요.\n",
+        "reference": "https://nihongokanji.com/2223"
+    },
+    {
+        "kanji": "「竹、𥫗」",
+        "basic_info": "의미  \"대나무 죽\". 대나무, 대나무 죽간\n음독  チク\n사용 빈도  높음\n",
+        "kanji_structure": "\n竹는 \"대나무 줄기와 잎사귀\"를 그린 상형문자입니다.\n𥫗는 竹를 부수로 쓰기 위해 축약한 것으로, 의미는 같습니다.\n\n(\"대나무 죽간\"이란, 중국에서 종이가 발명되기 전 글자를 기록하던 대나무 조각과 그것을 엮어 만든 책을 뜻합니다.)\n\n",
+        "reference": "https://nihongokanji.com/2224"
+    },
+    {
+        "kanji": "「帚」",
+        "basic_info": "의미  빗자루\n사용 빈도  6회\n",
+        "kanji_structure": "\n帚 = ⺕ + 冖 + 巾。\n「⺕」는 \"손\"을 뜻하는 부수입니다.\n冖는 여기서는 \"빗자루대\"를 그린 모양자입니다.\n「巾」는 \"수건, 천\"을 뜻하는 부수입니다.\n\n帚는 \"빗자루(冖+巾)를 든 손(⺕)\" -> \"빗자루\"라는 뜻의 글자입니다.\n",
+        "reference": "https://nihongokanji.com/2225"
+    },
+    {
+        "kanji": "「里」",
+        "basic_info": "의미  \"마을 리\". 마을\n음독  リ\n사용 빈도  8회\n",
+        "kanji_structure": "\n里 = 田 + 土。\n「土」는 \"흙, 땅\"을 뜻합니다.\n田(\"밭 전\")은 \"밭\"을 뜻하는 상용한자입니다.\n\n里는 \"논밭(田)이 늘어선 땅(土)\" -> \"마을\"이라는 뜻의 글자입니다.\n\n",
+        "reference": "https://nihongokanji.com/2226"
+    },
+    {
+        "kanji": "「灬」",
+        "basic_info": "의미  불\n사용 빈도  높음\n",
+        "kanji_structure": "\n灬는 \"불타고 있는 장작의 모습\"을 그린 상형문자입니다.\n",
+        "reference": "https://nihongokanji.com/2227"
+    },
+    {
+        "kanji": "「㠯」",
+        "basic_info": "의미  엉덩이\n사용 빈도  5회\n",
+        "kanji_structure": "\n㠯는 \"사람의 엉덩이\"를 본따 그린 상형문자입니다.\n\n주의)\n모양이 비슷한 「𠂤」,「呂」와 혼동하지 않도록 주의해주세요.\n",
+        "reference": "https://nihongokanji.com/2228"
+    },
+    {
+        "kanji": "「𠂤」",
+        "basic_info": "의미  언덕\n사용 빈도  4회\n",
+        "kanji_structure": "\n𠂤는 \"흙더미가 쌓인 언덕\"을 그린 상형문자입니다.\n\n주의)\n모양이 비슷한 「㠯」,「呂」와 혼동하지 않도록 주의해주세요.\n",
+        "reference": "https://nihongokanji.com/2229"
+    },
+    {
+        "kanji": "「呂」",
+        "basic_info": "의미  여러 채의 집이 이어져있는 대저택\n사용 빈도  4회\n",
+        "kanji_structure": "\n呂는 \"여러 채의 집이 서로 연결되어 있는 모습\"을 그린 상형문자입니다.\n\n주의)\n모양이 비슷한 「㠯」,「𠂤」와 혼동하지 않도록 주의해주세요.\n\n",
+        "reference": "https://nihongokanji.com/2230"
+    },
+    {
+        "kanji": "「尸」",
+        "basic_info": "의미 1  앉아있는 사람\n의미 2  집, 지붕\n사용 빈도  매우 높음\n",
+        "kanji_structure": "\n尸가 다른 한자의 일부로 쓰일 때는 서로 전혀 다른 두 가지 의미를 가질 수 있으므로 주의해야 합니다.\n\n이 경우는 \"앉아있는 사람\"의 모습을 그린 상형문자로서 쓰인 것입니다.\n\n이 경우는 \"집의 지붕과 처마\"를 그린 상형문자로서 쓰인 것입니다.\n",
+        "reference": "https://nihongokanji.com/2231"
+    },
+    {
+        "kanji": "「圣」",
+        "basic_info": "의미  지나가다\n음독  ケイ、キョウ\n사용 빈도  5회\n",
+        "kanji_structure": "\n圣는 \"날실이 베틀 사이를 지나가는 모습\"을 그린 상형문자입니다.\n(본래는 巠였으나 모양이 변형된 것입니다.)\n\"날실이 베틀을 지나가다\" -> \"지나가다\"라는 의미입니다.\n",
+        "reference": "https://nihongokanji.com/2232"
+    },
+    {
+        "kanji": "「卩」",
+        "basic_info": "의미  무릎꿇은 사람\n사용 빈도  높음\n",
+        "kanji_structure": "\n卩는 \"무릎꿇은 사람\"의 모습을 그린 상형문자입니다.\n",
+        "reference": "https://nihongokanji.com/2233"
+    },
+    {
+        "kanji": "「龸」",
+        "basic_info": "의미  궁궐\n사용 빈도  5회\n",
+        "kanji_structure": "\n龸는 \"궁궐의 지붕\"을 그린 상형문자로, 「宀」에 장식을 더한 것입니다.\n\n주의)\n모양이 비슷한  「⺍＋冖」와 혼동하지 않도록 주의해주세요.\n",
+        "reference": "https://nihongokanji.com/2234"
+    },
+    {
+        "kanji": "「厂」",
+        "basic_info": "의미  기슭, 절벽\n사용 빈도  높음\n",
+        "kanji_structure": "\n厂는 \"가파른 절벽\"을 그린 상형문자입니다.\n\n주의)\n모양이 비슷한 「广」와 혼동하지 않도록 주의해주세요.\n",
+        "reference": "https://nihongokanji.com/2235"
+    },
+    {
+        "kanji": "「⺤」",
+        "basic_info": "의미  손\n사용 빈도  매우 높음\n",
+        "kanji_structure": "\n⺤는 \"손톱\"을 그린 상형문자입니다.\n",
+        "reference": "https://nihongokanji.com/2236"
+    },
+    {
+        "kanji": "「戊」",
+        "basic_info": "의미  창\n사용 빈도  5회\n",
+        "kanji_structure": "\n戊 = 戈 + 丿。\n「戈」는 \"창\"을 뜻합니다(링크 참조).\n丿는 여기서는 \"반달 모양의 낫\"을 그린 모양자입니다.\n\n戊는 \"반달 모양의 낫(丿)이 달린 창(戈)\" -> \"창\"이라는 뜻의 글자입니다.\n",
+        "reference": "https://nihongokanji.com/2237"
+    },
+    {
+        "kanji": "「其」",
+        "basic_info": "의미  바구니\n음독  キ\n사용 빈도  6회\n",
+        "kanji_structure": "\n其는 본래 \"대나무를 엮어 만든 바구니\"를 그린 상형문자입니다.\n다만, 이 글자는 상용한자에서는 의미와 관련 없이 오직 소리부로만 쓰이고 있습니다.\n",
+        "reference": "https://nihongokanji.com/2238"
+    },
+    {
+        "kanji": "「且」",
+        "basic_info": "의미  비석, 조상, 장례\n음독  ソ\n사용 빈도  높음\n",
+        "kanji_structure": "\n且는 \"비석\"의 모습을 그린 상형문자입니다.\n\"제사를 지낼 비석\" -> \"비석, 조상, 장례\"라는 의미입니다.\n\n",
+        "reference": "https://nihongokanji.com/2239"
+    },
+    {
+        "kanji": "「戌」",
+        "basic_info": "의미  창을 든 손\n사용 빈도  6회\n",
+        "kanji_structure": "\n戌 = 戊 + 一。\n「戊」는 \"창\"을 뜻합니다.\n一는 여기서는 \"(창을 든) 손\"을 그린 모양자입니다.\n\n戌는 \"창(戊)을 든 손(一)\"이라는 뜻의 글자입니다.\n",
+        "reference": "https://nihongokanji.com/2240"
+    },
+    {
+        "kanji": "「殳」",
+        "basic_info": "의미  때리다, 휘두르다\n사용 빈도  높음\n",
+        "kanji_structure": "\n殳 = 𠘧 + 又。\n𠘧는 여기서는 \"채찍\"을 그린 모양자입니다.\n「又」는 \"손\"을 뜻합니다.\n\n殳는 \"채찍(𠘧)을 휘두르는 손(又)\" -> \"때리다, 휘두르다\"라는 뜻의 부수입니다.\n",
+        "reference": "https://nihongokanji.com/2241"
+    },
+    {
+        "kanji": "「亦」",
+        "basic_info": "의미  팔을 벌리고 걷는 사람\n사용 빈도  5회\n",
+        "kanji_structure": "\n亦는 \"팔을 벌리고 걷는 사람\"을 그린 상형문자입니다.\n",
+        "reference": "https://nihongokanji.com/2242"
+    },
+    {
+        "kanji": "「酉」",
+        "basic_info": "의미  술\n사용 빈도  높음\n",
+        "kanji_structure": "\n酉 = ⺎ + 口 + 一。\n酉는 \"술이 담긴 술통\"을 그린 상형문자입니다.\n⺎는 술병의 마개, 口는 술통, 一는 술통에 든 술을 각각 표현한 것입니다.\n\n주의)\n모양이 비슷한 「西」와 혼동하지 않도록 주의해주세요.\n",
+        "reference": "https://nihongokanji.com/2243"
+    },
+    {
+        "kanji": "「畐」",
+        "basic_info": "의미  가득하다, 안이 가득 찬 항아리\n음독  フク\n사용 빈도  4회\n",
+        "kanji_structure": "\n畐는 \"안이 가득 찬 항아리\"를 그린 상형문자입니다.\n",
+        "reference": "https://nihongokanji.com/2244"
+    },
+    {
+        "kanji": "「㦮」",
+        "basic_info": "의미  피와 살점이 묻은 창\n음독  セン\n사용 빈도  5회\n",
+        "kanji_structure": "\n㦮 = 戈 + 二。\n「戈」는 창\"을 뜻합니다.\n二는 여기서는 \"창에 묻은 피와 살점\"을 표현한 모양자입니다.\n\n㦮는 \"피와 살점(二)이 묻은 창(戈)\"이라는 뜻의 글자입니다.\n",
+        "reference": "https://nihongokanji.com/2245"
+    },
+    {
+        "kanji": "「辰」",
+        "basic_info": "의미  쟁기, 농기구\n음독  シン\n사용 빈도  6회\n",
+        "kanji_structure": "\n辰는 \"밭에서 사용하던 쟁기\"를 그린 상형문자입니다.\n",
+        "reference": "https://nihongokanji.com/2246"
+    },
+    {
+        "kanji": "「录、彔」",
+        "basic_info": "의미  염색하다, 물들이다\n사용 빈도  3회\n",
+        "kanji_structure": "\n录는 \"염색용 염료를 천에 넣고 짜는 모습\"을 그린 상형문자입니다.\n(彐는 \"천보자기\", 氺는 \"흘러내리는 염료\"를 각각 표현한 모양자입니다.)\n\n彔는 录가 살짝 변형된 것으로, 의미는 같습니다.\n",
+        "reference": "https://nihongokanji.com/2247"
+    },
+    {
+        "kanji": "「辛」",
+        "basic_info": "의미  문신을 새기는 고문 도구\n사용 빈도  7회\n",
+        "kanji_structure": "\n辛는 \"노예의 몸에 문신을 새기기 위해 쓰이던 도구\"를 그린 상형문자입니다.\n\n",
+        "reference": "https://nihongokanji.com/2248"
+    },
+    {
+        "kanji": "「亢」",
+        "basic_info": "의미  오르다, 높다\n음독  コウ\n사용 빈도  3회\n",
+        "kanji_structure": "\n亢는 \"양 다리에 줄을 매고 나무에 오르는 사람\"을 그린 상형문자입니다.\n",
+        "reference": "https://nihongokanji.com/2249"
+    },
+    {
+        "kanji": "「侖」",
+        "basic_info": "의미  둥글게 말린 죽간\n음독  リン\n사용 빈도  3회\n",
+        "kanji_structure": "\n侖는 \"죽간이 둥글게 말려있는 모습\"을 그린 상형문자입니다.\n\n주의)\n모양이 비슷한 「俞」와 혼동하지 않도록 주의해주세요.\n",
+        "reference": "https://nihongokanji.com/2250"
+    },
+    {
+        "kanji": "「坴」",
+        "basic_info": "의미  흙더미\n사용 빈도  4회\n",
+        "kanji_structure": "\n坴 = 土 + 儿 + 土。\n「土」는 \"흙\"을 뜻합니다.\n儿는 「人」가 변형된 것으로, \"사람\"을 뜻합니다.\n\n坴는 \"흙(土) 사이에 파묻힌 사람(儿)\" -> \"흙더미\"라는 뜻의 글자입니다.\n",
+        "reference": "https://nihongokanji.com/2251"
+    },
+    {
+        "kanji": "「咅」",
+        "basic_info": "의미  화분 위의 화초\n음독  バイ\n사용 빈도  6회\n",
+        "kanji_structure": "\n咅는 \"잎을 늘어뜨린 화분 위의 화초\"를 그린 상형문자입니다.\n",
+        "reference": "https://nihongokanji.com/2252"
+    },
+    {
+        "kanji": "「壴」",
+        "basic_info": "의미  북\n사용 빈도  3회\n",
+        "kanji_structure": "\n壴는 \"지지대 위에 올려놓은 북\"을 그린 상형문자입니다.\n\n주의)\n모양이 비슷한 「豆」와 혼동하지 않도록 주의해주세요.\n",
+        "reference": "https://nihongokanji.com/2253"
+    },
+    {
+        "kanji": "「忄」",
+        "basic_info": "의미  마음\n사용 빈도  매우 높음\n",
+        "kanji_structure": "\n忄는 「心」를 부수로 쓰기 위해 축약한 것으로, 의미는 같습니다.\n",
+        "reference": "https://nihongokanji.com/2254"
+    },
+    {
+        "kanji": "「曽」",
+        "basic_info": "의미  쌓이다\n음독  ソウ\n사용 빈도  6회\n",
+        "kanji_structure": "\n曽는 \"수증기가 올라오는 찜통\"을 그린 상형문자입니다.\n\"겹겹이 쌓인 찜통\" -> \"쌓이다\"라는 의미입니다.\n\n",
+        "reference": "https://nihongokanji.com/2256"
+    },
+    {
+        "kanji": "「覀」",
+        "basic_info": "의미  덮다, 가리다\n사용 빈도  8회\n",
+        "kanji_structure": "\n覀는 \"그릇의 뚜껑\"을 그린 상형문자입니다.\n\"뚜껑\" -> \"덮다, 가리다\"라는 의미입니다.\n",
+        "reference": "https://nihongokanji.com/2257"
+    },
+    {
+        "kanji": "「咼」",
+        "basic_info": "의미  잘못되다, 어긋나다\n음독  カ\n사용 빈도  4회\n",
+        "kanji_structure": "\n咼 = 冎 + 口。\n「冎」는 \"뼈, 해골\"을 뜻하는 글자입니다(링크 참조).\n口는 여기서는 \"뼈에 난 구멍\"을 그린 모양자입니다.\n\n咼는 \"구멍난(口) 뼈(冎)\" -> \"잘못되다, 어긋나다\"라는 뜻의 글자입니다.\n",
+        "reference": "https://nihongokanji.com/2259"
+    },
+    {
+        "kanji": "「丬」",
+        "basic_info": "의미  탁자\n사용 빈도  6회\n",
+        "kanji_structure": "\n丬는 \"탁자를 옆으로 세워놓은 모습\"을 그린 상형문자입니다.\n",
+        "reference": "https://nihongokanji.com/2260"
+    },
+    {
+        "kanji": "「冓」",
+        "basic_info": "의미  얽다, 짜다\n음독  コウ\n사용 빈도  4회\n",
+        "kanji_structure": "\n冓 = 井 + 再。\n井는 여기서는 \"물고기\"를 그린 모양자입니다.\n「再」는 본래 \"물고기가 수면 위로 입을 내민 모습\"을 그린 글자입니다(링크 참조).\n\n冓는 \"물고기 두 마리(井+再)가 얽혀있는 모습\" -> \"얽다, 얽히다, 짜다\"라는 뜻의 글자입니다.\n",
+        "reference": "https://nihongokanji.com/2261"
+    },
+    {
+        "kanji": "「甫」",
+        "basic_info": "의미  채소밭\n음독  ホ\n사용 빈도  10회\n",
+        "kanji_structure": "\n甫는 \"밭(田)에 채소가 자라는 모습\"을 그린 상형문자입니다.\n",
+        "reference": "https://nihongokanji.com/2263"
+    },
+    {
+        "kanji": "「丩」",
+        "basic_info": "의미  얽히다\n사용 빈도  3회\n",
+        "kanji_structure": "\n丩는 \"줄이 엉킨 모습\"을 그린 상형문자입니다.\n",
+        "reference": "https://nihongokanji.com/2264"
+    },
+    {
+        "kanji": "「韋」",
+        "basic_info": "의미  성 주위를 돌며 경계서는 발들\n음독  イ\n사용 빈도  5회\n",
+        "kanji_structure": "\n韋 = 𫝀 + 口 + 㐄。\n「㐄」는 \"발\"을 뜻하는 글자입니다(링크 참조).\n口는 여기서는 \"성\"을 그린 모양자입니다.\n𫝀는 「 㐄」를 좌우로 뒤집은 것으로, \"발\"을 뜻합니다.\n\n韋는 \"성(口) 주위를 돌며 경계서는 발들(𫝀+㐄)\"이라는 뜻의 글자입니다.\n",
+        "reference": "https://nihongokanji.com/2265"
+    },
+    {
+        "kanji": "「㐄」",
+        "basic_info": "의미  발\n사용 빈도  10회\n",
+        "kanji_structure": "\n㐄는 \"발\"을 본따 그린 상형문자입니다.\n",
+        "reference": "https://nihongokanji.com/2266"
+    },
+    {
+        "kanji": "「犭」",
+        "basic_info": "의미  개, 짐승\n사용 빈도  높음\n",
+        "kanji_structure": "\n犭는 「犬」를 부수로 쓰기 위해 축약한 것입니다.\n\"개(犬)\" -> \"개, 짐승\"이라는 의미입니다.\n",
+        "reference": "https://nihongokanji.com/2267"
+    },
+    {
+        "kanji": "「采」",
+        "basic_info": "의미  뽑다, 따다\n음독  サイ\n사용 빈도  4회\n",
+        "kanji_structure": "\n采 = ⺤ + 木。\n「⺤」는 \"손\"을 뜻하는 부수입니다(링크 참조).\n「木」는 \"나무\"를 뜻합니다.\n\n采는 \"나무열매(木)를 따다(⺤)\" -> \"뽑다, 따다\"라는 뜻의 글자입니다.\n\n",
+        "reference": "https://nihongokanji.com/2268"
+    },
+    {
+        "kanji": "「俞」",
+        "basic_info": "의미  보내다\n음독  ユ\n사용 빈도  5회\n",
+        "kanji_structure": "\n俞는 \"위(↑)로 나아가는 조각배\"를 그린 상형문자입니다.\n\"배를 위로 보내다\" -> \"보내다\"라는 의미입니다.\n\n주의)\n모양이 비슷한 「侖」와 혼동하지 않도록 주의해주세요.\n",
+        "reference": "https://nihongokanji.com/2269"
+    },
+    {
+        "kanji": "「复」",
+        "basic_info": "의미  되돌아가다\n음독  フク\n사용 빈도  5회\n",
+        "kanji_structure": "\n复 = 𭥍 + 夂。\n𭥍는 여기서는 \"성문\"을 그린 모양자입니다.\n「夂」는 \"발\"을 뜻합니다.\n\n复는 \"성(𭥍)을 나왔던 사람이 발걸음(夂)을 돌려 되돌아가다\" -> \"되돌아가다\"라는 뜻의 글자입니다.\n",
+        "reference": "https://nihongokanji.com/2270"
+    },
+    {
+        "kanji": "「𤰔」",
+        "basic_info": "의미  방추(실을 감아두는 도구)\n사용 빈도  3회\n",
+        "kanji_structure": "\n𤰔는 \"누에고치에서 뽑은 실을 감아두는 방추\"를 그린 상형문자입니다.\n",
+        "reference": "https://nihongokanji.com/2271"
+    },
+    {
+        "kanji": "「扁」",
+        "basic_info": "의미  집 안의 책\n음독  ヘン\n사용 빈도  3회\n",
+        "kanji_structure": "\n扁 = 戸 + 冊。\n「戸」는 \"집, 문\"을 뜻합니다.\n冊는 \"책\"을 뜻하는 상용한자입니다.\n\n扁는 \"집(戸) 안에 모아놓은 책(冊)\"이라는 뜻의 글자입니다.\n",
+        "reference": "https://nihongokanji.com/2272"
+    },
+    {
+        "kanji": "「尞」",
+        "basic_info": "의미  횃불\n음독  リョウ\n사용 빈도  4회\n",
+        "kanji_structure": "\n尞는 \"밝게 타오르는 횃불\"을 그린 상형문자입니다.\n",
+        "reference": "https://nihongokanji.com/2273"
+    },
+    {
+        "kanji": "「㔾」",
+        "basic_info": "의미  무릎꿇은 사람\n사용 빈도  8회\n",
+        "kanji_structure": "\n㔾는 \"무릎꿇은 사람\"을 그린 상형문자입니다.\n",
+        "reference": "https://nihongokanji.com/2274"
+    },
+    {
+        "kanji": "「卬」",
+        "basic_info": "의미  우러러보다\n사용 빈도  3회\n",
+        "kanji_structure": "\n卬 = 𠂎 + 卩。\n𠂎는 여기서는 \"서 있는 사람\"을 그린 모양자입니다.\n「卩」는 \"무릎꿇은 사람\"을 뜻합니다.\n\n卬는 \"무릎을 꿇고(卩) 앞에 선 사람(𠂎)을 올려다보다\" -> \"우러러보다\"라는 뜻의 글자입니다.\n",
+        "reference": "https://nihongokanji.com/2275"
+    },
+    {
+        "kanji": "「虍」",
+        "basic_info": "의미  호랑이\n사용 빈도  9회\n",
+        "kanji_structure": "\n虍는 \"호랑이의 머리\"를 본따 그린 상형문자입니다.\n",
+        "reference": "https://nihongokanji.com/2276"
+    },
+    {
+        "kanji": "「啇」",
+        "basic_info": "의미  화초를 심은 화분\n음독  テキ\n사용 빈도  5회\n",
+        "kanji_structure": "\n啇는 \"화초를 심은 화분\"을 그린 상형문자입니다.\n\n주의)\n모양이 비슷한 「商」와 혼동하지 않도록 주의해주세요.\n",
+        "reference": "https://nihongokanji.com/2277"
+    },
+    {
+        "kanji": "「屰」",
+        "basic_info": "의미  거꾸로\n사용 빈도  3회\n",
+        "kanji_structure": "\n屰는 \"거꾸로 뒤집힌 사람\"을 그린 상형문자입니다.\n",
+        "reference": "https://nihongokanji.com/2278"
+    },
+    {
+        "kanji": "「睘」",
+        "basic_info": "의미  둥글다\n음독  カン\n사용 빈도  2회\n",
+        "kanji_structure": "\n睘 = ⺫ + 一 + 口 + 𧘇。\n⺫는 여기서는 「目」가 뒤집힌 것으로, \"눈\"을 뜻합니다.\n口는 여기서는 \"둥근 옥\"을 그린 모양자입니다.\n一+𧘇는 여기서는 「衣」가 축약된 것으로, \"옷\"을 뜻합니다.\n\n睘는 \"품(一+𧘇) 안에 감싸둔 둥근 옥(口)을 바라보다(⺫)\" -> \"둥글다\"라는 뜻의 글자입니다.\n",
+        "reference": "https://nihongokanji.com/2279"
+    },
+    {
+        "kanji": "「舛」",
+        "basic_info": "의미  두 발, 양발\n사용 빈도  4회\n",
+        "kanji_structure": "\n舛 = 夕 + 㐄。\n夕는 여기서는 「夂」가 살짝 변형된 것으로, \"발\"을 뜻합니다.\n「㐄」는 \"발\"을 뜻합니다.\n\n舛는 \"발(夂) + 발(㐄)\" -> \"두 발, 양발\"이라는 뜻의 부수입니다.\n",
+        "reference": "https://nihongokanji.com/2280"
+    },
+    {
+        "kanji": "「奐」",
+        "basic_info": "의미  태어나는 아기를 받아내는 모습\n음독  カン\n사용 빈도  2회\n",
+        "kanji_structure": "\n奐는 \"출산 중인 산모의 다리 사이에 두 손을 갖다댄 모습\"을 그린 상형문자입니다.\n",
+        "reference": "https://nihongokanji.com/2281"
+    },
+    {
+        "kanji": "「娄」",
+        "basic_info": "의미  쌓다, 겹치다\n사용 빈도  2회\n",
+        "kanji_structure": "\n娄 = 米 + 女。\n「米」는 \"쌀\"을 뜻합니다.\n「女」는 \"여자\"를 뜻합니다.\n\n娄는 \"머리에 쌀가마(米)를 이고 있는 여자(女)\"를 그린 글자입니다.\n\"여자의 머리 위에 쌀가마가 쌓여 있다\" -> \"쌓다, 겹치다\"라는 의미입니다.\n",
+        "reference": "https://nihongokanji.com/2287"
+    },
+    {
+        "kanji": "「𮥶」",
+        "basic_info": "의미  새장 안의 새\n음독  カン\n사용 빈도  4회\n",
+        "kanji_structure": "\n𮥶 = 𠂉 + 隹。\n𠂉는 여기서는 \"새장\"을 그린 모양자입니다.\n「隹」는 \"새\"를 뜻합니다.\n\n𮥶는 \"새장(𠂉) 안의 새(隹)\"라는 뜻의 글자입니다.\n",
+        "reference": "https://nihongokanji.com/2288"
+    },
+    {
+        "kanji": "「袁」",
+        "basic_info": "의미  길다, 헐렁하다\n음독  エン\n사용 빈도  3회\n",
+        "kanji_structure": "\n袁 = 衣 + 口。\n「衣」는 \"옷\"을 뜻합니다.\n口는 여기서는 \"옷의 크기가 크다\"라는 것을 표현하기 위해 추가된 모양자입니다.\n\n袁는 \"가슴팍의 크기가 넉넉한(口) 길고 헐렁한 옷(衣)\" -> \"길다, 헐렁하다\"라는 뜻의 글자입니다.\n",
+        "reference": "https://nihongokanji.com/2289"
+    },
+    {
+        "kanji": "「朮」",
+        "basic_info": "의미  모자를 쓴 재주꾼\n음독  ジュツ\n사용 빈도  2회\n",
+        "kanji_structure": "\n朮 = ホ + 丶。\nホ는 여기서는 \"사람\"을 그린 모양자입니다.\n丶는 여기서는 \"모자\"를 그린 모양자입니다.\n\n朮는 \"모자(丶)를 쓴 재주꾼(ホ)\"이라는 뜻의 글자입니다.\n",
+        "reference": "https://nihongokanji.com/2291"
+    },
+    {
+        "kanji": "「巴」",
+        "basic_info": "의미  꼬리\n사용 빈도  3회\n",
+        "kanji_structure": "\n巴는 \"뱀이 또아리를 튼 모습\"을 그린 상형문자입니다.\n\"길게 빠져나온 뱀의 꼬리\" -> \"꼬리\"라는 의미입니다.\n",
+        "reference": "https://nihongokanji.com/2292"
+    },
+    {
+        "kanji": "「莫」",
+        "basic_info": "의미  없다\n음독  ボ、バク\n사용 빈도  8회\n",
+        "kanji_structure": "\n莫 = 艹 + 日 + 大。\n「艹」는 \"풀\"을 뜻합니다.\n「日」는 \"태양\"을 뜻합니다.\n大는 여기서는 「艹」가 잘못 변형된 것으로, \"풀\"을 그린 것입니다.\n\n莫는 \"수풀(艹+大) 사이로 해(日)가 저물어 사라지다\" -> \"없다\"라는 뜻의 글자입니다.\n",
+        "reference": "https://nihongokanji.com/2293"
+    },
+    {
+        "kanji": "「堇」",
+        "basic_info": "의미  처벌, 형벌\n음독  キン\n사용 빈도  3회\n",
+        "kanji_structure": "\n堇는 \"나무 기둥에 묶여 고문당하고 있는 사람\"을 그린 상형문자입니다.\n",
+        "reference": "https://nihongokanji.com/2294"
+    },
+    {
+        "kanji": "「亥」",
+        "basic_info": "의미  도축/가공된 돼지\n사용 빈도  5회\n",
+        "kanji_structure": "\n亥는 \"도축, 가공되어 뼈만 남은 돼지\"를 그린 상형문자입니다.\n",
+        "reference": "https://nihongokanji.com/2295"
+    },
+    {
+        "kanji": "「尃」",
+        "basic_info": "의미  넓게 퍼지다, 넓다\n음독  ハク、バク\n사용 빈도  4회\n",
+        "kanji_structure": "\n尃 = 甫 + 寸。\n「甫」는 \"채소밭\"을 뜻합니다.\n「寸」는 \"손\"을 뜻합니다.\n\n尃는 \"채소밭(甫)에 채소를 골고루 넓게 퍼뜨려 심다(寸)\" -> \"넓게 퍼지다, 넓다\"라는 뜻의 글자입니다.\n\n주의)\n모양이 비슷한 「専」와 혼동하지 않도록 주의해주세요.\n",
+        "reference": "https://nihongokanji.com/2296"
+    },
+    {
+        "kanji": "「朿」",
+        "basic_info": "의미  삼지창\n사용 빈도  2회\n",
+        "kanji_structure": "\n朿는 \"화려한 장식이 달린 삼지창\"을 그린 상형문자입니다.\n",
+        "reference": "https://nihongokanji.com/2297"
+    },
+    {
+        "kanji": "「辟」",
+        "basic_info": "의미  피하다, 숨다\n음독  ヘキ\n사용 빈도  4회\n",
+        "kanji_structure": "\n辟 = 尸 + 口 + 辛。\n「尸」는 \"앉아있는 사람\"을 뜻합니다.\n口는 여기서는 \"돌담\"을 그린 모양자입니다.\n「辛」는 \"문신을 새기는 고문 도구\"를 뜻합니다.\n\n辟는 \"고문(辛)을 피해 돌담(口) 뒤로 도망쳐 숨은(尸) 노예\" -> \"피하다, 숨다\"라는 뜻의 글자입니다.\n",
+        "reference": "https://nihongokanji.com/2298"
+    },
+    {
+        "kanji": "「呉」",
+        "basic_info": "의미  머리가 옆으로 기울어진 사람\n음독  ゴ\n사용 빈도  4회\n",
+        "kanji_structure": "\n呉는 \"머리를 옆으로 기우뚱하고 있는 사람\"을 그린 상형문자입니다.\n\n",
+        "reference": "https://nihongokanji.com/2299"
+    },
+    {
+        "kanji": "「夹」",
+        "basic_info": "의미  끼다, 끼이다\n음독  キョウ\n사용 빈도  4회\n",
+        "kanji_structure": "\n夹는 \"옆구리에 무언가를 끼고 있는 사람\"을 그린 상형문자입니다.\n",
+        "reference": "https://nihongokanji.com/2300"
+    },
+    {
+        "kanji": "「爰」",
+        "basic_info": "의미  한가롭다, 여유롭다, 느긋하다\n사용 빈도  4회\n",
+        "kanji_structure": "\n爰 = ⺤ + 一 + 友。\n「⺤」는 \"손\"을 뜻합니다.\n一는 여기서는 \"막대기\"를 그린 모양자입니다.\n「友」는 \"친구\"를 뜻합니다.\n\n爰는 \"막대기(一)를 들고(⺤) 친구(友)와 장난치며 놀다\" -> \"한가롭다, 여유롭다, 느긋하다\"라는 뜻의 글자입니다.\n",
+        "reference": "https://nihongokanji.com/2301"
+    },
+    {
+        "kanji": "「𠦝」",
+        "basic_info": "의미  떠오르는 아침해\n사용 빈도  6회\n",
+        "kanji_structure": "\n𠦝 = 艹 + 日。\n위아래의 十+十는 「艹」가 변형된 것으로, \"풀\"을 뜻합니다.\n「日」는 \"태양\"을 뜻합니다.\n\n𠦝는 \"초목(艹) 사이로 떠오르는 아침해(日)\"라는 뜻의 글자입니다.\n",
+        "reference": "https://nihongokanji.com/2302"
+    },
+    {
+        "kanji": "「耒」",
+        "basic_info": "의미  쟁기\n사용 빈도  3회\n",
+        "kanji_structure": "\n耒는 \"밭을 가는 쟁기\"를 본따 그린 상형문자입니다.\n",
+        "reference": "https://nihongokanji.com/2303"
+    },
+    {
+        "kanji": "「屯」",
+        "basic_info": "의미  뿌리깊은 나무\n음독  トン\n사용 빈도  4회\n",
+        "kanji_structure": "\n屯는 \"땅에 깊게 뿌리내린 나무\"를 그린 상형문자입니다.\n\n",
+        "reference": "https://nihongokanji.com/2304"
+    },
+    {
+        "kanji": "「禺」",
+        "basic_info": "의미  원숭이\n음독  グウ\n사용 빈도  4회\n",
+        "kanji_structure": "\n禺는 \"꼬리가 긴 원숭이\"를 본따 그린 상형문자입니다.\n",
+        "reference": "https://nihongokanji.com/2305"
+    },
+    {
+        "kanji": "「𢦏」",
+        "basic_info": "의미  화려한 의장용 창\n음독  サイ\n사용 빈도  5회\n",
+        "kanji_structure": "\n𢦏 = 十 + 戈。\n「戈」는 \"창\"을 뜻합니다.\n十는 여기서는 \"창에 달린 화려한 장식\"을 그린 모양자입니다.\n\n𢦏는 \"화려한 장식(十)이 달린 의장용 창(戈)\"이라는 뜻의 글자입니다.\n\n(\"의장\"이란 \"지위가 높은 사람이 행차할 때에 위엄을 보이기 위해 격식을 갖추는 용도로 사용되는 병장기\"를 뜻합니다.)\n",
+        "reference": "https://nihongokanji.com/2307"
+    },
+    {
+        "kanji": "「尗」",
+        "basic_info": "의미  식물의 줄기와 뿌리\n사용 빈도  5회\n",
+        "kanji_structure": "\n尗 = 上 + 小。\n上는 여기서는 \"땅(一)에서 올라온 식물의 줄기(├)\"를 그린 모양자입니다.\n小는 여기서는 \"(식물의) 뿌리\"를 그린 모양자입니다.\n\n尗는 \"싹을 틔운 식물의 줄기(上)와 뿌리(小)\"라는 뜻의 글자입니다.\n",
+        "reference": "https://nihongokanji.com/2308"
+    },
+    {
+        "kanji": "「曷」",
+        "basic_info": "의미  허리를 굽혀 구걸하는 모습\n음독  カツ\n사용 빈도  6회\n",
+        "kanji_structure": "\n曷는 \"머리(日)를 숙이고 허리를 굽히며(勹) 굽신거리는 모습\"을 본따 그린 상형문자입니다.\n",
+        "reference": "https://nihongokanji.com/2309"
+    },
+    {
+        "kanji": "「㐮」",
+        "basic_info": "의미  상복, 예복\n음독  ジョウ\n사용 빈도  4회\n",
+        "kanji_structure": "\n㐮 = 衣 + ハ + 𠀎。\n「衣」는 \"옷\"을 뜻합니다.\nハ+𠀎는 여기서는 \"옷에 수놓은 무늬\"를 그린 모양자입니다.\n\n㐮는 \"특별한 무늬(𠀎)가 새겨진 옷(衣)\" -> \"예복, 상복\"이라는 뜻의 글자입니다.\n",
+        "reference": "https://nihongokanji.com/2310"
+    },
+    {
+        "kanji": "「夋」",
+        "basic_info": "의미  천천히 걷는 사람\n사용 빈도  3회\n",
+        "kanji_structure": "\n夋 = 厶 + 儿 + 夂。\n厶는 여기서는 \"사람의 머리\"를 그린 모양자입니다.\n儿는 여기서는 \"사람의 양 팔\"을 그린 모양자입니다.\n「夂」는 \"발\"을 뜻합니다.\n\n夋는 \"팔을 앞뒤로 저으며(儿) 뚜벅뚜벅 걷는(夂) 사람(厶)\"을 그린 글자입니다.\n",
+        "reference": "https://nihongokanji.com/2311"
+    },
+    {
+        "kanji": "「岡」",
+        "basic_info": "의미  강하다\n음독  コウ\n사용 빈도  4회\n",
+        "kanji_structure": "\n岡 = 𦉰 + 山。\n𦉰는 「罒」가 변형된 것으로, \"쇠그물\"을 뜻합니다.\n「山」는 \"산\"을 뜻합니다.\n\n岡는 \"산(山) 위에 쳐놓은 쇠그물(𦉰)\" -> \"강하다\"라는 뜻의 글자입니다.\n\n",
+        "reference": "https://nihongokanji.com/2312"
+    },
+    {
+        "kanji": "「皀」",
+        "basic_info": "의미  음식이 담긴 식기\n사용 빈도  6회\n",
+        "kanji_structure": "\n\n皀는 \"음식이 담긴 식기\"를 그린 상형문자입니다.\n",
+        "reference": "https://nihongokanji.com/2313"
+    },
+    {
+        "kanji": "「享」",
+        "basic_info": "의미  모자를 쓴 아이\n사용 빈도  4회\n",
+        "kanji_structure": "\n享 = 亠 + 口 + 子。\n亠+口는 여기서는 \"(아이가 쓴) 모자\"를 그린 모양자입니다.\n「子」는 \"아이\"를 뜻합니다.\n\n享는 \"모자(亠+口)를 쓴 아이(子)\"라는 뜻의 글자입니다.\n\n",
+        "reference": "https://nihongokanji.com/2314"
+    },
+    {
+        "kanji": "「兹」",
+        "basic_info": "의미  무성하다, 무성한 덩굴\n음독  ジ\n사용 빈도  3회\n",
+        "kanji_structure": "\n兹는 \"담장(䒑)을 따라 무성하게 자라난 덩굴들(𢆶)\"을 그린 상형문자입니다.\n",
+        "reference": "https://nihongokanji.com/2315"
+    },
+    {
+        "kanji": "「敝」",
+        "basic_info": "의미  두들겨 맞아서 찢어진 옷\n음독  ヘイ\n사용 빈도  3회\n",
+        "kanji_structure": "\n敝 = 巾 + 丷 + ハ + 攵。\n「巾」는 \"수건, 천\"을 뜻합니다.\n丷+ハ는 여기서는 \"(천이) 여기저기 찢어지고 해진 모습\"을 그린 모양자입니다.\n「攵」는 \"때리다, 치다\"라는 뜻입니다.\n\n敝는 \"몽둥이로 두들겨 맞아(攵) 옷(巾)이 갈기갈기 찢어져버리다(丷+ハ)\"라는 뜻의 글자입니다.\n",
+        "reference": "https://nihongokanji.com/2316"
+    }
+]

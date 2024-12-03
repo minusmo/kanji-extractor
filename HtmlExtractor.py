@@ -11,7 +11,7 @@ from bs4 import BeautifulSoup
 import re
 
 
-class HtmlExtractor:
+class CommonUsedKanjiExtractor:
     def __init__(self, html_content) -> None:
         self.soup = BeautifulSoup(html_content, "html.parser")
 
@@ -53,4 +53,44 @@ class HtmlExtractor:
             "kanji_structure": kanji_structure,
             "on_yomi_info": on_yomi_info,
             "kun_yomi_info": kun_yomi_info,
+        }
+
+class SubKanjiExtractor:
+    def __init__(self, html_content) -> None:
+        self.soup = BeautifulSoup(html_content, "html.parser")
+
+    def find_texts(self) -> dict:
+        # 1. Kanji
+        kanji = self.soup.find('div', id='head').find('a').text
+        print(f"Kanji: {kanji}")
+
+        # 2. 기본 정보 and its content
+        gibon_info_title = self.soup.find('h3', text=lambda t: "기본 정보" in t)
+        gibon_info_content = gibon_info_title.find_next_siblings('ul') # Find all <ul> siblings after the <h3>
+        gibon_info_text = ""
+        for ul in gibon_info_content:
+            for li in ul.find_all('li'):
+                gibon_info_text += li.text.strip() + "\n"
+
+        # print(f"\n기본 정보:\n{gibon_info_text}")
+
+
+        # 3. 모양 해설 and its content
+        moyang_haeseol_title = self.soup.find('h3', text=lambda t: "모양 해설" in t)
+        moyang_haeseol_content = ""
+
+        # Start from the next sibling of the title
+        element = moyang_haeseol_title.find_next_sibling()
+
+        while element and element.name != 'hr': # Stop when encountering <hr>
+            if element.name == 'p':
+                moyang_haeseol_content += element.text.strip() + "\n"
+            element = element.find_next_sibling()
+
+        # print(f"\n모양 해설:\n{moyang_haeseol_content}")
+
+        return {
+            "kanji": kanji,
+            "basic_info": gibon_info_text,
+            "kanji_structure": moyang_haeseol_content,
         }
